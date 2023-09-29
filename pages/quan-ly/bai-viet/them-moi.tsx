@@ -346,7 +346,7 @@ export default function CreatePost() {
             <Box height={"auto"} width={"100%"}>
               <Editor
                 value={content}
-                apiKey={"i4rwm87h4qr1rnnpjmpliozd86qa65v89r680jfji0ls6sj5"}
+                apiKey={"rc87z8c8ebkg8ydsc0zrtj7ory5ob9ta4jahomago8a09eg2"}
                 onInit={(evt, editor) => {
                   editorRef.current = editor;
                 }}
